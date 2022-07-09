@@ -16,7 +16,7 @@ OnlyOwnerCanOpenDeadChest: true
 
 # The amount of time a DeadChest will be active for (in seconds)...
 #   You can disable this limit by setting the value to 0.
-DeadChestDuration: 300
+DeadChestDuration: 0
 
 # Should DeadChests be protected from explosions and other players?
 #   > false - DeadChests will not be protected and can be broken.
